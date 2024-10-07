@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://wzy2233.github.io</id>
+    <title>夜雨聆风的blog</title>
+    <updated>2024-10-07T07:33:56.908Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://wzy2233.github.io"/>
+    <link rel="self" href="https://wzy2233.github.io/atom.xml"/>
+    <subtitle>‘温故而知新’</subtitle>
+    <logo>https://wzy2233.github.io/images/avatar.png</logo>
+    <icon>https://wzy2233.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, 夜雨聆风的blog</rights>
+    <entry>
+        <title type="html"><![CDATA[我的blog之旅]]></title>
+        <id>https://wzy2233.github.io/post/wo-de-blog-zhi-lu/</id>
+        <link href="https://wzy2233.github.io/post/wo-de-blog-zhi-lu/">
+        </link>
+        <updated>2024-10-07T05:09:52.000Z</updated>
+        <content type="html"><![CDATA[<p>##<strong>初识博客</strong><br>
+初二的那个夏天，一个小屁孩悠闲地逛着浏览器，那时他很喜欢刷酷安，看刷机教程，找破解游戏打发时间，陡然一个帖子下面有一个让我帮你百度一下的神秘链接，一点开，孟坤的blog映入眼帘，往下翻，在线小游戏，在线工具箱，盗版音乐等应有尽有，随着鼠标的移动，居然还有小尾巴特效，这让小小的他仿佛发现了一片世外桃源般的崭新天地，随着探索的深入，他在博客的友链里发现了更多博客，从这一个个网站里他看到了程序员们丰富的内心世界，后来，4399小游戏开始收紧了游戏权限，实名认证结束了他的4399小游戏生涯，他只好投奔各大博客，在程序员们创造出的自由世界里，探索珍藏在互联网角落的最后一片净土，一个个魔改的小游戏就悄悄地藏在其中，游玩之余，他怅惘曾经以开放包容著称的互联网文化正在逐渐消亡，无数的的手机验证与网页APP化把当时这个13岁的少年阻挡在外，他想，如果有自己小游戏的网站就好了，此刻，他萌生了建站的想法.....</p>
+<p>##<strong>第一次失败的尝试</strong><br>
+他知道博客是一个网页，网页由代码组成，想到代码，他只知道一款叫我的世界的游戏是由java编写的，他兴冲冲的注册了甲骨文账号，幻想着自己学会Java，编写网页，可B站上的免费教程让他犯了难，刚刚听到第3课就听不懂了，几天下来，毫无进展，他有几分丧气，不过很快，纷繁的网络世界吸走了他的注意力，他又成为了曾经那个漫无目的的冲浪小孩，建站的事情抛之脑后.....</p>
+<p>##<strong>激情重燃</strong><br>
+初三中考后，他的好成绩得到了父母的认可，爸爸妈妈大手一挥，决定给他买他那心心念念的电脑，他自己挑好配置，收到电脑的那一刻欣喜若狂，他下载了很多游戏，却怎么也找不回曾今游玩的那份快乐，正巧钉钉上一则广告吸引了他的注意，是阿里云的天池挑战赛，活动内竟免费教学python编程语言，就这样，他再次踏上了学习之路，方便的简化界面让他快速成长，思考与更改之余他体验到了创造的快乐，但好景不长，进阶课程中函数，数据分析的意思他始终无法理解，高中开学在即，python之路戛然而止</p>
+<p>##<strong>星星之火</strong><br>
+虽然失败了，但在编程期间，他注册了github，他学会了用v2ray访问外网，他找到了zlibrary这个世界最大的公益电子书库，他依旧感到收获满满</p>
+<p>##<strong>不堪预料的剧变</strong><br>
+高中分科他选了理科，建网站的愿望仍隐隐出现，他希望自己能走上编程之路，但现实的残酷让他望而却步，繁多的公式和无法理解的抽象定理让他无从下手，为了拯救自己的成绩，他只得壮士割腕，断臂求生，转到文科，那一晚，他知道，自己的目标幻灭了....</p>
+<p>##<strong>闲来无事时的随意尝试</strong><br>
+高考结束，我照往常一样，随意地逛着哔哩哔哩，看到编程分享视频，心痒痒，要不再来一次吧<br>
+3年过去互联网发展已经日趋成熟，博客再也不用自己从零编写，跟着教学视频一步步地做，我用wordpress成功建立了第一个可以访问的网站，但没过几天，白嫖的的公益服务器便跑路了，我的网站数据和搭建成果也付之东流，这一次，我并没有气馁，因为我明白，胜利就在眼前</p>
+<p>##<strong>长征胜利！——博客欲火涅槃新生</strong><br>
+进入大学，他仍没放弃，再三尝试，终于找到了适合自己的博客框架，在这个新买的华硕天选5笔记本电脑上，他续写出了最后的传奇，使用GRIDEA成功建立自己的博客！</p>
+<!-- more -->by夜雨聆风  2024.10.7  14：56
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://wzy2233.github.io/post/hello-gridea/</id>
+        <link href="https://wzy2233.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客协作模板。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客协作模板。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="https://gridea.dev/">Gridea 主页</a><br>
+<a href="https://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
